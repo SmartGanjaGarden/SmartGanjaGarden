@@ -20,15 +20,7 @@
 
 ![SmartGanjaGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGanjaGarden&theme=vue-dark&show_icons=true)
 
-#
 <details>
- <summary><h3>👨‍💻 SmartGanjaGarden</h3></summary>
+<summary><h3>👨‍💻 SmartGanjaGarden</h3></summary>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 </details>
-#
-<!--- [website]: https://www.smartganja.garden--->
-
-<!---
-SmartGanjaGarden/SmartGanjaGarden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
