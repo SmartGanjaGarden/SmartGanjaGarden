@@ -15,6 +15,8 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=73D838&style=for-the-badge&labelColor=61C621&logo=star&logoColor=white"/></a>
 </p>
 
+---
+
 <!---
 SmartGanjaGarden/SmartGanjaGarden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
