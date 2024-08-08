@@ -12,7 +12,7 @@
       <a href="https://github.com/SmartGanjaGarden?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SmartGanjaGarden?color=6EA7AB&labelColor=5F757E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/SmartGanjaGarden?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=9CE076&style=for-the-badge&labelColor=91db67&logo=star&logoColor=white"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=73D838&style=for-the-badge&labelColor=91db67&logo=star&logoColor=white"/></a>
 </p>
 
 <!---
