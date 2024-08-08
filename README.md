@@ -10,6 +10,8 @@
 
 https://img.shields.io/github/stars/:SmartGanjaGarden
 
+ <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 <!---
 SmartGanjaGarden/SmartGanjaGarden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
