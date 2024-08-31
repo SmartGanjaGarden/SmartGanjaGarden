@@ -18,6 +18,8 @@
 
 #
 
+![Visitor Count](https://profile-counter.glitch.me/SmartGanjaGarden/count.svg)
+
 ![SmartGanjaGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGanjaGarden&theme=vue-dark&show_icons=true)
 
 <h3>👨‍💻 SmartGanjaGarden</h3>
