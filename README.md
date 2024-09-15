@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **Automate the Grow.**
 
-- ⚡ Tools used: **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and an solder iron**
+- ⚡ Tools used: **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and a solder iron**
 
 - 💬 Ask me about: **anything**
 
