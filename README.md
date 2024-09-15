@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning: **To be a better grower.**
 
-- :alien: Best Practice: **fun and curiosity**
+- :alien: Best Practice: **Fun and curiosity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
