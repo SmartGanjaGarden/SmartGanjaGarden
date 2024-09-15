@@ -7,24 +7,21 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=73D838&style=for-the-badge&labelColor=61C621&logo=star&logoColor=white"/></a>
 </p>
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartganjagarden&label=Profile%20views&color=0e75b6&style=flat" alt="smartganjagarden" /> </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm SmartGanjaGarden</h1>
-<h3 align="center">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
+<h3 align="center">Hi 👋, I'm SmartGanjaGarden</h1>
+<h4 align="center">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
 
-- 🔭 I’m currently working on **Automate the Grow.**
+- 🔭 I’m currently working on: **Automate the Grow.**
 
-- ⚡ Tools used **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and an solder iron,**
+- ⚡ Tools used: **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and an solder iron**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about: **anything**
 
-- 🌱 I’m currently learning **to be a better grower.**
+- 🌱 I’m currently learning: **To be a better grower.**
 
-- Best Practice **fun and curiosity**
+- :alien: Best Practice: **fun and curiosity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,3 +52,7 @@
 
 <h3>👨‍💻 SmartGanjaGarden</h3>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartganjagarden&label=Profile%20views&color=0e75b6&style=flat" alt="smartganjagarden" /> </p>
