@@ -22,7 +22,7 @@
 
 #
 
- <p align="left">
+<p align="left">
       <a href="https://github.com/SmartGanjaGarden?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SmartGanjaGarden?color=6EA7AB&labelColor=74999B&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/SmartGanjaGarden?tab=repositories&sort=stargazers">
