@@ -6,12 +6,15 @@
       <a href="https://github.com/SmartGanjaGarden?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SmartGanjaGarden?color=73D838&style=for-the-badge&labelColor=61C621&logo=star&logoColor=white"/></a>
 </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartganjagarden&label=Profile%20views&color=0e75b6&style=flat" alt="smartganjagarden" /> </p>
+
 ---
 
 <h1 align="center">Hi 👋, I'm SmartGanjaGarden</h1>
 <h3 align="center">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartganjagarden&label=Profile%20views&color=0e75b6&style=flat" alt="smartganjagarden" /> </p>
 
 - 🔭 I’m currently working on **Automate the Grow.**
 
