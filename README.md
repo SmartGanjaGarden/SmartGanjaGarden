@@ -2,8 +2,8 @@
 
 #
 
-<h3 align="center">Hi 👋, I'm SmartGanjaGarden</h1>
-<h4 align="center">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
+<h3 align="left">Hi 👋, I'm SmartGanjaGarden</h1>
+<h4 align="left">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
 
 - 🔭 I’m currently working on: **Automate the Grow.**
 
