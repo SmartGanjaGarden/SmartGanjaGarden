@@ -9,7 +9,7 @@
 
 - ⚡ Tools used: **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and a solder iron**
 
-- 💬 Ask me about: **anything**
+- 💬 Ask me about: **Anything**
 
 - 🌱 I’m currently learning: **To be a better grower.**
 
