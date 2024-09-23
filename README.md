@@ -19,7 +19,7 @@
 
 <h4 align="left">News:</h4>
 
-* <a href=https://github.com/SmartGanjaGarden/SmartGanjaGarden.iobroker/blob/main/>Added new blockly script for calculating the vapore pressure deficit (VPD)</a><br> 
+* <a href=https://github.com/SmartGanjaGarden/SmartGanjaGarden.iobroker/blob/main/README.md>Added new blockly script for calculating the vapore pressure deficit (VPD)</a><br> 
 
 #
 <br>
