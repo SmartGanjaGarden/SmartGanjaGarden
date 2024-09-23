@@ -33,10 +33,10 @@
 #
 
 <h3>👨‍💻 SmartGanjaGarden</h3>
-My stats:<br>
+My stats:
+<br>
 
 ![SmartGanjaGarden's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGanjaGarden&theme=vue-dark&show_icons=true)
-
 
 ---
 
