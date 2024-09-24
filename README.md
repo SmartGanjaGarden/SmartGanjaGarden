@@ -5,13 +5,13 @@
 <h3 align="left">Hi 👋, I'm SmartGanjaGarden</h1>
 <h4 align="left">A passionate grower, it nerd, home-automation addict, never-tiring tinkerer and electrician by trade.</h3>
 
-- 🔭 I’m currently working on: **Automate the Grow.**
+- 🔭 I’m currently working on: **Automate the Grow**
 
 - ⚡ Tools used: **ioBroker, grafana, influxdb, blockly, ntfy, tasmota, esp8266, esp32 and a solder iron**
 
 - 💬 Ask me about: **Anything**
 
-- 🌱 I’m currently learning: **To be a better grower.**
+- 🌱 I’m currently learning: **To be a better grower**
 
 - :alien: Best Practice: **Fun and curiosity**
 <p align="left">
