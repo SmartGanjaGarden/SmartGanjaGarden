@@ -20,7 +20,7 @@
 <h4 align="left">News:</h4>
 
 * <a href=https://github.com/SmartGanjaGarden/SmartGanjaGarden.iobroker/blob/main/README.md>Added new blockly script for calculating the vapore pressure deficit (VPD)</a><br>
-* <a href=https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/README.md>Added new DIY 2-Channel 12V Output controller with Tasmota (Controlling fans, lights, pumps and so on</a><br>
+* <a href=https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/README.md>Added new DIY 2-Channel 12V Output controller with Tasmota (Controlling fans, lights, pumps and so on)</a><br>
 
 #
 <br>
